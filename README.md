@@ -2,6 +2,8 @@
 
 Input a bad image and make it better.
 
+**Prerequisite: cv2, matplotlib.pyplot, numpy
+
 1. Generate the histogram of the original image.
 ![Original Histogram](https://imgur.com/8utpRWm.png)
 
